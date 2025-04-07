@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Hola mundo</h1>
-    <button onclick="saludar"></button>
+    <input type="button" onclick="saludar()" value="Tocar Aqui">
 </body>
 </html>
