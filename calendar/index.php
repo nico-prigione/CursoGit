@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="/javascript.js"></script>
 </head>
 <body>
     <h1>Hola mundo</h1>
-    
+    <button onclick="saludar"></button>
 </body>
 </html>
